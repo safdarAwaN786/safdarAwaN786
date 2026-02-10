@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Safdar 👋
 
-<!--
-**safdarAwaN786/safdarAwaN786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Engineer with 3+ years of experience building business-focused web & mobile applications.
+Alongside development, I have hands-on exposure to application support, testing practices,
+and cloud fundamentals.
 
-Here are some ideas to get you started:
+## 🧑‍💻 Primary Role
+- Software Engineer
+- React, Next, Vue, React Native
+- Node, Express, Nest, PostgreSQL, Prisma, REST APIs
+- Authentication, roles, reports, payments
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Supporting Skills
+- Application & IT Support (logs, incidents, debugging)
+- QA fundamentals (test cases, API testing)
+- Cloud & Platform Support (Docker, deployments)
+
+## 📌 Featured Work
+Check my pinned repositories below for:
+- Production-style systems
+- Support & troubleshooting documentation
+- Testing and system analysis samples
+
+## 📫 Contact
+- LinkedIn: <your-link>
+- Email: <your-email>

@@ -80,7 +80,7 @@
 
 <p align="center">
   <img alt="Software Engineering" src="https://img.shields.io/badge/Software%20Engineering-4CAF50?style=for-the-badge&logo=visualstudiocode&logoColor=white" style="height: 34px;" />
-  <img alt="Cloud & DevOps" src="https://img.shields.io/badge/Cloud%20%26%20DevOps-007ACC?style=for-the-badge&logo=amazonaws&logoColor=white" style="height: 34px;" />
+  <img alt="DevOps" src="https://img.shields.io/badge/Cloud%20%26%20DevOps-007ACC?style=for-the-badge&logo=amazonaws&logoColor=white" style="height: 34px;" />
   <img alt="AI Engineering" src="https://img.shields.io/badge/AI%20Engineering-6A5ACD?style=for-the-badge&logo=openai&logoColor=white" style="height: 34px;" />
   <img alt="Automation" src="https://img.shields.io/badge/Automation-FF9900?style=for-the-badge&logo=n8n&logoColor=white" style="height: 34px;" />
   <img alt="System Design" src="https://img.shields.io/badge/System%20Design-00BFFF?style=for-the-badge&logo=diagramsdotnet&logoColor=white" style="height: 34px;" />

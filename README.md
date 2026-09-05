@@ -54,8 +54,8 @@
 </p>
 
 <p align="center">
-  <!--  DevOps -->
-  <b>Cloud & DevOps:</b><br>
+  <!-- DevOps -->
+  <b>DevOps:</b><br>
   <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img alt="Terraform" src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
